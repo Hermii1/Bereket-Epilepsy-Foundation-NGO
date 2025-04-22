@@ -3,7 +3,7 @@ A Modern React.js Website for Epilepsy Awareness & Support
 Bereket Epilepsy Foundation is a non-profit organization dedicated to supporting individuals and families affected by epilepsy. This website provides information, resources, and ways to get involved.
 
 Features
-1. Home Page
+1. Home Page 
 Hero section with a mission statement
 
 Featured epilepsy awareness campaigns
