@@ -8,18 +8,23 @@ Bereket Epilepsy Foundation is a non-profit organization dedicated to supporting
 1. **Home Page**: 
 Hero section with a mission statement,Featured epilepsy awareness campaigns and Quick links to donate, volunteer, or learn more.
 
-2.**About Us Page**
+2. **About Us Page**
 Our story, mission, and vision, Team members and their roles and Success stories & testimonials.
-3. **Programs & Resources**:
+
+4. **Programs & Resources**:
 List of epilepsy support programs, Educational materials (PDFs, videos, articles) and Links to medical resources.
-4. Events & Workshops
+
+6. **Events & Workshops**
 Upcoming epilepsy awareness events, Registration forms for webinars & workshops andPast event galleries.
-5. **Donation Page**:
+
+8. **Donation Page**:
 Secure donation options (PayPal, Stripe, bank transfer), Fundraising campaigns and Volunteer sign-up form.
-6. **Contact Page**:
+
+10. **Contact Page**:
 Inquiry form for support/questions, Email, phone, and social media links and Office location (if applicable)
 
 ##Technologies Used
+
 **React.js**: Component-based UI
 
 **ShadCN UI**: Modern, accessible components
