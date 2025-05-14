@@ -21,6 +21,15 @@ const Header = () => {
           <Link to="/about" className="text-gray-600 hover:text-blue-500 transition-colors">
             About
           </Link>
+          <Link to="/howitworks" className="text-gray-600 hover:text-blue-500 transition-colors">
+            How It Works
+          </Link>
+          <Link to="/blog" className="text-gray-600 hover:text-blue-500 transition-colors">
+            Blog
+          </Link>
+          <Link to="/contact" className="text-gray-600 hover:text-blue-500 transition-colors">
+            Contact
+          </Link>
         </nav>
 
         {/* Mobile Hamburger Button (visible only on mobile) */}
@@ -60,6 +69,15 @@ const Header = () => {
           </Link>
           <Link to="/about" className="text-gray-600 hover:text-blue-500 transition-colors py-2">
             About
+          </Link>
+          <Link to="/how-it-works" className="text-gray-600 hover:text-blue-500 transition-colors py-2">
+            How It Works
+          </Link>
+          <Link to="/blog" className="text-gray-600 hover:text-blue-500 transition-colors py-2">
+            Blog
+          </Link>
+          <Link to="/contact" className="text-gray-600 hover:text-blue-500 transition-colors py-2">
+            Contact
           </Link>
         </div>
       </div>
