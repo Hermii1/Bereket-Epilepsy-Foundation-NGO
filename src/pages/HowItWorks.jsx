@@ -1,8 +1,8 @@
 import React from 'react';
 import { FaHeart, FaShareAlt, FaHandsHelping } from 'react-icons/fa';
-import HeroImage from '../assets/Charity Gift Catalog _ Gifts That Give Back _ World Vision.jpg'; // Hero image
-import HopeCampaignImage from '../assets/download (3).jpg'; // Step 1 image
-import ShareCampaignImage from '../assets/download (3).jpg'; // Step 2 image
+import HeroImage from '../Assets/Charity Gift Catalog _ Gifts That Give Back _ World Vision.jpg'; // Hero image
+import HopeCampaignImage from '../Assets/download (3).jpg'; // Step 1 image
+import ShareCampaignImage from '../Assets/download (3).jpg'; // Step 2 image
 
 const HowItWorks = () => {
   return (
