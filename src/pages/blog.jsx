@@ -2,8 +2,8 @@ import React from 'react';
 import { FaCalendarAlt, FaUser, FaArrowRight } from 'react-icons/fa';
 
 // Import images
-import BlogEpilepsyMyths from '../assets/download (3).jpg';
-import BlogOutreach from '../assets/download (4).jpg';
+import BlogEpilepsyMyths from '../assets/download.jpg';
+import BlogOutreach from '../assets/download.jpg';
 import BlogCaregiving from '../assets/download.jpg';
 
 // Sample blog data - replace with your actual content or API fetch
