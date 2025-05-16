@@ -1,6 +1,6 @@
 import React from "react";
 import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
-import Logo from '../assets/Bereket Epilepsy Foundation Logo.jpg';
+import Logo from '../Assets/Bereket Epilepsy Foundation Logo.jpg';
 
 const Footer = () => {
     return (
