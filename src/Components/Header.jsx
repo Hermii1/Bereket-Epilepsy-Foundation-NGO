@@ -30,6 +30,9 @@ const Header = () => {
           <Link to="/contact" className="text-gray-600 hover:text-blue-500 transition-colors">
             Contact
           </Link>
+          <Link to="/donation" className="text-white bg-yellow-500 hover:bg-yellow-600 font-bold py-2 px-4 rounded transition-colors">
+            Donate
+          </Link>
         </nav>
 
         {/* Mobile Hamburger Button (visible only on mobile) */}
@@ -78,6 +81,9 @@ const Header = () => {
           </Link>
           <Link to="/contact" className="text-gray-600 hover:text-blue-500 transition-colors py-2">
             Contact
+          </Link>
+          <Link to="/donation" className="text-white bg-yellow-500 hover:bg-yellow-600 font-bold py-2 px-4 rounded transition-colors text-center">
+            Donate
           </Link>
         </div>
       </div>
